@@ -1,0 +1,8 @@
+{
+    "env": {
+        "MONGO_ATLAS_PASSWORD": "Sandeep",
+        "JWT_ACCESS_KEY": "Sandy",
+        "JWT_REFRESH_KEY": "Karthik",
+        "MONGODB_URI": "mongodb+srv://Sandeep:Sandeep@node-medicareapp.dpgqpzu.mongodb.net/MedicareData?retryWrites=true&w=majority"
+    }
+}
