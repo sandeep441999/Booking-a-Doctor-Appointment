@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<li>
+  <div>
+    <div
+      data-testid="doctor-d1"
+    >
+      <h3>
+        Sam
+      </h3>
+      <address>
+        <strong>
+          Qualification: 
+        </strong>
+        MBBS
+      </address>
+      <address>
+        <strong>
+          Speciality: 
+        </strong>
+        Cardiology
+      </address>
+      <address>
+        <strong>
+          Age: 
+        </strong>
+        45
+      </address>
+    </div>
+    <div>
+      <button>
+        Book an Appointment
+      </button>
+    </div>
+  </div>
+</li>
+`;
